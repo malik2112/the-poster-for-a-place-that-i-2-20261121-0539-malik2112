@@ -3,8 +3,9 @@
 
 Deterministic PIL travel poster (1024x1024 PNG) for an invented coastal
 city: a spiral tower on a rocky island, terraced whitewashed houses,
-a calm bay at dusk. The only text in the picture is the place name.
-No network; fixed-seed pseudo-random detail only.
+sailboats and a calm bay at dusk under twin moons. The only text in the
+picture is the place name, set in the navy band at the foot.
+No network; fixed-seed pseudo-random detail only (stars, waves, grain).
 """
 import os
 import random
